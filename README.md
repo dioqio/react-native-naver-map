@@ -2,9 +2,9 @@ react-native-naver-map [![npm version](https://badge.fury.io/js/react-native-nma
 -----
 
 네이버맵의 리액트 네이티브 브릿지입니다.
+포크 버전 입니다.
 
 ![](https://raw.githubusercontent.com/QuadFlask/react-native-naver-map/master/example/screenshot/screenshot.png)
-
 
 ## 설치
 
