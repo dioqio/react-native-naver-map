@@ -1,6 +1,6 @@
 {
   "name": "@dioqio/react-native-naver-map",
-  "version": "0.0.74",
+  "version": "0.0.75",
   "description": "react-native bridge for naver map. fork version",
   "main": "index.js",
   "author": "dioqio",
